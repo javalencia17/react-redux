@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "GED",
+      "lenguaje": "PHP",
+      "id": 1
+    },
+    {
+      "nombre": "Gobierno",
+      "lenguaje": "PHP",
+      "id": 2
+    },
+    {
+      "nombre": "litíGo",
+      "lenguaje": "PHP",
+      "id": 3
+    },
+    {
+      "nombre": "Ventanilla Online",
+      "lenguaje": "NodeJS",
+      "id": 4
+    },
+    {
+      "nombre": "Gdocumental",
+      "lenguaje": "PHP",
+      "id": 5
+    },
+    {
+      "nombre": "Contratación",
+      "lenguaje": "NodeJS",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nombre": "Livertad religiosa",
+      "lenguaje": "PHP"
+    }
+  ]
+}
